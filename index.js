@@ -460,7 +460,6 @@ const ukLocalAuthorities = [
 {value:"Torfaen County Borough Council",label:"Torfaen County Borough Council"},
 {value:"Vale of Glamorgan Council",label:"Vale of Glamorgan Council"},
 {value:"Wrexham County Borough Council",label:"Wrexham County Borough Council"},
-{value:"Unknown",label:"Unknown"}
 ];
 
 module.exports = ukLocalAuthorities;
