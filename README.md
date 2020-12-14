@@ -47,7 +47,7 @@ Once tagged, push the new tags to the remote git server:
 git push origin --tags
 ```
 
-3) The following steps will publish to npm, please consult this page for most up-tp-date steps. 
+3) The following steps will publish to npm, please consult the following page for most up to date information. 
 
 https://collaboration.homeoffice.gov.uk/display/CTO/Updating+a+HOF+dependency+and+consuming+it+in+your+application
 
